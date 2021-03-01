@@ -1,6 +1,6 @@
 package Person;
 import javax.swing.JOptionPane;
-public class Group extends Student {
+public class Group  {
      private Student[] array;
 
     public Group(Student[] array) {
